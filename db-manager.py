@@ -216,10 +216,10 @@ def remove_profile(member_id):
 
     return response
 
-# Seeding
+# Server-side testing (should be commented before deploying)
 
-seed('seed.txt',file)
-dump(load(file))        
+# seed('seed.txt',file)
+# dump(load(file))        
 
 if __name__ == '__main__':
     host = environ.get('IP')
