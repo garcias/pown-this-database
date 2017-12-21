@@ -15,3 +15,4 @@ Someone (likely the instructor) should take the role of the administrator and de
 - [ ] Suggestions for exploring the code and writing tests
 - [ ] Make and test Pip requirements
 - [ ] Separate branch for didactic materials (like intermediate exercises
+- [ ] Check whether `Access-Control-X` headers need to be set
